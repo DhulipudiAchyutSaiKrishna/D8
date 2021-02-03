@@ -1,0 +1,47 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    color:whitesmoke;
+    text-align:center;
+}
+
+body{
+   background-image: url("https://www.fotor.com/_nuxt/img/853fb1d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+
+}
+
+.parent{
+    display:flex;
+}
+.two,.third,.fourth{
+    margin:10px;
+    padding:10px;
+    border:5px dashed whitesmoke;
+    flex:1;
+}
+
+.one{
+    
+}
+
+tr,td{
+    margin:10px;
+    padding:10px;
+    border:5px antiquewhite;
+}
+
+@media screen and (max-width:426px){
+
+}
+
+@media screen and (max-width:1046px){
+    
+}
+
+
+@media screen and (max-width:2048px){
+    
+}
